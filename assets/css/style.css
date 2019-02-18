@@ -1,0 +1,76 @@
+label {
+	font-weight: bold;
+}
+
+.table-header{
+	font-weight: bold;
+}
+
+.trash-can {
+	width:  25px;
+	height: 25px;
+}
+
+#hot {
+	width:  25px;
+	height: 25px;
+	color: red;
+	
+
+}
+
+.form-validation {
+	color: red;
+}
+
+#steps {
+    text-decoration: underline;
+}
+
+.images {
+    width: 200px;
+    height: 200px;
+}
+
+.colTitles {
+	font-size: 30px;
+	color:  red;
+	text-shadow: 2px 2px black;
+	
+
+
+}
+
+.bodyCSS {
+	background-image:  url("https://img.heypik.com/background/20180814/heypik-blue-creative-technology-ecommerce-taobao-banner-background_28622718.jpg?x-oss-process=image/quality,q_70/watermark,image_c2h1aXlpbl9uZXcucG5n,g_center");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 6000px 2000px;
+
+
+
+
+
+}
+
+#borderImg1 {
+	border: 10px solid transparent;
+	padding: 15px;
+	border-image: url(https://openclipart.org/image/2400px/svg_to_png/189774/Caution-Border-02--Arvin61r58.png) 50 round;
+  }
+
+  #borderImg2 {
+	border: 10px solid transparent;
+	padding: 15px;
+	border-image: url(http://capriogroup.com/WebStuff/Images/Borders/UpstartEntBorder.bmp) 50 round;
+	background: white;
+  }
+
+
+  #borderImg3 {
+	border: 10px solid transparent;
+	padding: 15px;
+	border-image: url(https://previews.123rf.com/images/katarepsius/katarepsius1803/katarepsius180300287/97929950-rectangle-frame-made-of-black-animal-paw-prints-on-transparent-background-vector-illustration-templa.jpg) 50 round;
+	background: white;
+  }
+
